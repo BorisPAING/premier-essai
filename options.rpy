@@ -25,7 +25,7 @@ init -1 python hide:
 
     ## Contrôle le nom et la version du jeu; qui apparaîtront dans les
     ## fichiers de débogage.
-    config.name = "renpy_01"
+    config.name = "renpy_02"
     config.version = "0.0"
 
     #########################################

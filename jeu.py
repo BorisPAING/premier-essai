@@ -6,8 +6,7 @@ from renpygame.locals import *
 
 def jeu (fenetre, tailleFenetre) :
 	# On définit la durée du jeu
-	# dureeJeu = 31260
-	dureeJeu = 5000 # valeur de test
+	dureeJeu = 31260
 	
 	# On créé une horloge
 	horloge = pygame.time.Clock()

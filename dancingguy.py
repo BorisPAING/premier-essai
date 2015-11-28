@@ -9,7 +9,7 @@ def dancingguy () :
 	# On définit la durée de la présentation
 	# Le jeu commence à 32 secondes et 440 milisecondes
 	# debutJeu = 32440
-	debutJeu = 5000 # valeur de test
+	debutJeu = 500 # valeur de test
 	
 	# On initialise la SDL
 	pygame.init()
